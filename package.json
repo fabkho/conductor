@@ -1,8 +1,8 @@
 {
-  "name": "pi-conductor",
+  "name": "pi-fixit",
   "version": "0.5.2",
   "type": "module",
-  "description": "Task-to-MR delivery pipeline — worktrees, issue trackers, and merge requests in one command",
+  "description": "Bug-fix delivery pipeline — ClickUp ticket in, worktrees + MR out",
   "keywords": [
     "pi-package",
     "omp-package",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabkho/conductor.git"
+    "url": "git+https://github.com/fabkho/pi-fixit.git"
   },
   "files": [
     "extension",
