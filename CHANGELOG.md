@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.2](https://github.com/fabkho/conductor/compare/pi-conductor-0.5.1...pi-conductor-0.5.2) (2026-07-01)
+
+
+### Features
+
+* trigger first pi-conductor release via CI ([c6d6a20](https://github.com/fabkho/conductor/commit/c6d6a20afd4a7fca5899a65d110ec86c2eb2ecec))
+* trigger pi-conductor release ([f34fa80](https://github.com/fabkho/conductor/commit/f34fa80260e6332aa464c365598742186e270d6d))
+
 ## [0.4.1](https://github.com/fabkho/conductor/compare/pi-multirepo-0.4.0...pi-multirepo-0.4.1) (2026-05-30)
 
 
