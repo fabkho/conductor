@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.6](https://github.com/fabkho/pi-fixit/compare/pi-fixit-0.5.5...pi-fixit-0.5.6) (2026-07-02)
+
+
+### Features
+
+* rename commands to /fixit and /fixit-merge, update README ([7f8cf30](https://github.com/fabkho/pi-fixit/commit/7f8cf3061996aed4cd07f88a099c06cc25f7e955))
+
 ## [0.5.5](https://github.com/fabkho/pi-fixit/compare/pi-fixit-0.5.4...pi-fixit-0.5.5) (2026-07-01)
 
 
